@@ -28,7 +28,7 @@ Esta tool fue creada para Error404 y Kryptón Security, se deslindan de toda res
 
 Proximamenre crack de archvos .Rar
 
-siguenos en nuestras redes sociales para más información, nos ayudarias mucho difundiendo nuestro material, nuestro proposito no es lucrar es llegar a muchos espectadores, demostrar la falta de seguridad en los sistemas informáticos y con ello dar solución a los mismos.
+Siguenos en nuestras redes sociales para más información, nos ayudarias mucho difundiendo nuestro material, nuestro proposito no es lucrar es llegar a muchos espectadores, demostrar la falta de seguridad en los sistemas informáticos y con ello dar solución a los mismos.
 
 Somos conocimiento, sea libre de enseñar y aprender, nosotros somos "Kryptón Security".
 
