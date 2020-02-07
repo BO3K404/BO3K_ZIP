@@ -9,6 +9,7 @@ En agradecimiento a Error 404, Security Hack Labs y Kryptón Security por el apo
  
 INSTALACIÓN:
 
+git clone https://github.com/BO3K404/BO3K_ZIP.git
 bash bo3kzip.sh 
 
 INSTRUCCIONES:
