@@ -1,7 +1,7 @@
 # BO3K_ZIP
 Este es un crack para archivos Zip que utiliza un diccionario.
 
-Hola soy BO3K miembro/colaborador de Security Hack Labs,desarrollador de Error404 y fundador de Kryptón Security, aqui les dejo el código libre del crack de archivos zip.
+Hola soy BO3K miembro/colaborador de Security Hack Labs, desarrollador de Error404 y fundador de Kryptón Security, aqui les dejo el código libre del crack de archivos zip.
 Se libre de modificarlo, funciona con un diccionario muy completo (diccionary.txt).
 Pero puede usted modificarlo con datos que tenga del autor o usar otro diccionario disponible, le ire añadiendo varios diccionarios.
 
