@@ -28,7 +28,7 @@ Nota: realice esto despues de ejecutar el archivo bash
 
 Esta tool fue creada para Error404 y Kryptón Security, se deslindan de toda responsabilidad por el mal uso que el usuario le de a esta herramienta, se creo con la finalidad de comprobar la seguridad de sus archivos zip, sea libre de mejorar el código y usarlo.
 
-Proximamenre crack de archvos .Rar
+Proximamenre crack de archivos .Rar
 
 Siguenos en nuestras redes sociales para más información, nos ayudarias mucho difundiendo nuestro material, nuestro proposito no es lucrar es llegar a muchos espectadores, demostrar la falta de seguridad en los sistemas informáticos y con ello dar solución a los mismos.
 
