@@ -33,7 +33,7 @@ sleep 2
 setterm -foreground green
 python bo3kzip.py -help
 #Hola soy BO3K 404 SHL fundador de Kryptón Security, aqui les dejo el código libre del crack de archivos zip.
-#Se libre de modificarlo, funciona con un diccionario de fuerza bruta muy completo (diccionary.txt).
+#Se libre de modificarlo, funciona con un diccionario muy completo (diccionary.txt).
 #Pero puede usted modificarlo con datos que tenga del autor o usar otro diccionario disponible.
 #le ire añadiendo varios diccionarios.
 #Esta Tool fue creada para Error 404.
