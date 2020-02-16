@@ -37,6 +37,7 @@ Official telegram group: https://t.me/joinchat/LpZHVhYZYe8ujTYDICgekg
 
 Email for questions or clarifications: boeckgarcia@gmail.com
 
+
 This tool was created for Error404 and Kryptón Security, they disclaim all responsibility for the misuse that the user gives to this tool, it was created with the purpose of checking the security of their zip files, be free to improve the code and use it .
 
 Coming soon .Rar file crack
