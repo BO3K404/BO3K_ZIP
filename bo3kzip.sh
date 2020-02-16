@@ -23,18 +23,18 @@ echo "       MMN       MMMMM  MNM       MMM MMM        MMM MNM      NNM        M
 echo "       MMNMMMMMMMMMMM    NMMMMMMMNMM  MMMMMMMMMMNNN  MNN      NNMMMM   MMM       NN   MM       "
 echo " . . .  MMMMMMMMMMMM      MNNNNNNNN    MMMMMMMMMMM  MMNN      NNMMMMM  NNNNNNN NNNNNN MM  ...  "
 setterm -foreground white
-echo "               Este es un crack para archivos Zip que funciona con un diccionario.              "
-echo "                      Puede usted colocarle un diccionario personalizado.                       "
-echo "                          En agradecimiento a Error 404 @error404.org                           "
+echo "                  This is a crack for Zip files that works with a dictionary.                   "
+echo "                            Can you put a custom dictionary on it.                              "
+echo "                             In thanks to Error 404 @error404.org                               "
 echo "                         By: BO3K 404 SHL FUNDADOR DE KRYPTÓN SECURITY.                         "
 echo "                                      boeckgarcia@gmail.com                                     "
 setterm -foreground white
 sleep 2
 setterm -foreground green
 python bo3kzip.py -help
-#Hola soy BO3K 404 SHL fundador de Kryptón Security, aqui les dejo el código libre del crack de archivos zip.
-#Se libre de modificarlo, funciona con un diccionario muy completo (diccionary.txt).
-#Pero puede usted modificarlo con datos que tenga del autor o usar otro diccionario disponible.
-#le ire añadiendo varios diccionarios.
-#Esta Tool fue creada para Error 404.
-#En agradecimiento a Error 404, SEcurity Hack Labs y Kryptón Security por el apoyo que me han dado.
+# Hi, I'm BO3K 404 SHL founder of Kryptón Security, here I leave you the free code of the crack of zip files.
+# Be free to modify it, it works with a very complete dictionary (diccionary.txt).
+#But you can modify it with data you have from the author or use another available dictionary.
+# I will be adding several dictionaries.
+#This Tool was created for Error 404.
+#Thanks to Error 404, SEcurity Hack Labs and Kryptón Security for the support they have given me.
