@@ -1,45 +1,44 @@
 # BO3K_ZIP
-Este es un crack para archivos Zip que utiliza un diccionario.
 
-Hola soy BO3K miembro/colaborador de Security Hack Labs, desarrollador de Error404 y fundador de Kryptón Security, aqui les dejo el código libre del crack de archivos zip.
-Se libre de modificarlo, funciona con un diccionario muy completo (diccionary.txt).
-Pero puede usted modificarlo con datos que tenga del autor o usar otro diccionario disponible, le ire añadiendo otros.
+This is a crack for Zip files that uses a dictionary.
 
-En agradecimiento a Error 404, Security Hack Labs y Kryptón Security por el apoyo que me han dado.
- 
-# INSTALACIÓN:
+Hi, I'm BO3K member / collaborator of Security Hack Labs, developer of Error404 and founder of Kryptón Security, here I leave you the free code of the crack of zip files. Be free to modify it, it works with a very complete dictionary (diccionary.txt). But you can modify it with data you have from the author or use another available dictionary, I will be adding others.
+
+In thanks to Error 404, Security Hack Labs and Kryptón Security for the support they have given me.
+INSTALLATION:
 
 git clone https://github.com/BO3K404/BO3K_ZIP.git
 
-bash bo3kzip.sh 
+bash bo3kzip.sh
 
-# INSTRUCCIONES:
+# INSTRUCTIONS:
 
-A continuación le pedira unos datos los cuales son: 
-1) Ejecución de la herramienta.
-2) -f Ingrese el nombre del archivo zip.  
-3) -d Ingrese el diccionario. 
+Next I will ask you for some data which are:
 
-# EJEMPLO:
+    Execution of the tool.
+    -f Enter the name of the zip file.
+    -d Enter the dictionary.
 
-python bo3kzip.py -f crack.zip -d dictionary.txt 
+# EXAMPLE:
 
-Nota: realice esto despues de ejecutar el archivo bash
+python bo3kzip.py -f crack.zip -d dictionary.txt
 
-Esta tool fue creada para Error404 y Kryptón Security, se deslindan de toda responsabilidad por el mal uso que el usuario le de a esta herramienta, se creo con la finalidad de comprobar la seguridad de sus archivos zip, sea libre de mejorar el código y usarlo.
+Note: do this after running the bash file
 
-Proximamenre crack de archivos .Rar
+This tool was created for Error404 and Kryptón Security, they disclaim all responsibility for the misuse that the user gives to this tool, it was created with the purpose of checking the security of their zip files, be free to improve the code and use it .
 
-Siguenos en nuestras redes sociales para más información, nos ayudarias mucho difundiendo nuestro material, nuestro proposito no es lucrar es llegar a muchos espectadores, demostrar la falta de seguridad en los sistemas informáticos y con ello dar solución a los mismos.
+Proximamenre crack of .Rar files
 
-Somos conocimiento, sea libre de enseñar y aprender, nosotros somos "Kryptón Security".
+Follow us on our social networks for more information, you would help us a lot spreading our material, our purpose is not to profit is to reach many viewers, demonstrate the lack of security in the computer systems and thereby give solution to them.
 
-# REDES SOCIALES:
+We are knowledge, be free to teach and learn, we are "Kryptón Security".
 
-Página oficial de facebook: https://m.facebook.com/Kryptón-Security-106630810838763/?ref=bookmarks
+# SOCIAL NETWORKS:
 
-Instagram: https://www.instagram.com/invites/contact/?i=3qfaruc5avqi&utm_content=35khvuq 
+Official Facebook page: https://m.facebook.com/Kryptón-Security-106630810838763/?ref=bookmarks
 
-Grupo oficial de telegram: https://t.me/joinchat/LpZHVhYZYe8ujTYDICgekg
+Instagram: https://www.instagram.com/invites/contact/?i=3qfaruc5avqi&utm_content=35khvuq
 
-Correo electronico para dudas o aclaraciones: boeckgarcia@gmail.com
+Official telegram group: https://t.me/joinchat/LpZHVhYZYe8ujTYDICgekg
+
+Email for questions or clarifications: boeckgarcia@gmail.com
