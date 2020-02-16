@@ -28,7 +28,7 @@ Note: do this after running the bash file
 
 This tool was created for Error404 and Kryptón Security, they disclaim all responsibility for the misuse that the user gives to this tool, it was created with the purpose of checking the security of their zip files, be free to improve the code and use it .
 
-Proximamenre crack of .Rar files
+Coming soon .Rar file crack
 
 Follow us on our social networks for more information, you would help us a lot spreading our material, our purpose is not to profit is to reach many viewers, demonstrate the lack of security in the computer systems and thereby give solution to them.
 
