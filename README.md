@@ -8,7 +8,7 @@ In thanks to Error 404, Security Hack Labs and Kryptón Security for the support
 
 # INSTALLATION:
 
-1) git clone https://github.com/BO3K404/BO3K_ZIP.git)
+1) git clone https://github.com/BO3K404/BO3K_ZIP.git
 2) cd BO3K_ZIP
 3) bash bo3kzip.sh
 
