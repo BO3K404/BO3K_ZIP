@@ -7,20 +7,20 @@ Pero puede usted modificarlo con datos que tenga del autor o usar otro diccionar
 
 En agradecimiento a Error 404, Security Hack Labs y Kryptón Security por el apoyo que me han dado.
  
-INSTALACIÓN:
+# INSTALACIÓN:
 
 git clone https://github.com/BO3K404/BO3K_ZIP.git
 
 bash bo3kzip.sh 
 
-INSTRUCCIONES:
+# INSTRUCCIONES:
 
 A continuación le pedira unos datos los cuales son: 
 1) Ejecución de la herramienta.
 2) -f Ingrese el nombre del archivo zip.  
 3) -d Ingrese el diccionario. 
 
-EJEMPLO:
+# EJEMPLO:
 
 python bo3kzip.py -f crack.zip -d dictionary.txt 
 
@@ -33,6 +33,8 @@ Proximamenre crack de archivos .Rar
 Siguenos en nuestras redes sociales para más información, nos ayudarias mucho difundiendo nuestro material, nuestro proposito no es lucrar es llegar a muchos espectadores, demostrar la falta de seguridad en los sistemas informáticos y con ello dar solución a los mismos.
 
 Somos conocimiento, sea libre de enseñar y aprender, nosotros somos "Kryptón Security".
+
+# REDES SOCIALES:
 
 Página oficial de facebook: https://m.facebook.com/Kryptón-Security-106630810838763/?ref=bookmarks
 
