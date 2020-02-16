@@ -8,17 +8,17 @@ In thanks to Error 404, Security Hack Labs and Kryptón Security for the support
 
 # INSTALLATION:
 
-git clone https://github.com/BO3K404/BO3K_ZIP.git
-
-bash bo3kzip.sh
+   -git clone https://github.com/BO3K404/BO3K_ZIP.git
+   -cd BO3K_ZIP
+   -bash bo3kzip.sh
 
 # INSTRUCTIONS:
 
 Next I will ask you for some data which are:
 
     Execution of the tool.
-    -f Enter the name of the zip file.
-    -d Enter the dictionary.
+   -f Enter the name of the zip file.
+   -d Enter the dictionary.
 
 # EXAMPLE:
 
