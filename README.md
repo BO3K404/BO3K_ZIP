@@ -29,13 +29,13 @@ Note: do this after running the bash file
 
 # SOCIAL NETWORKS:
 
-Official Facebook page: https://m.facebook.com/Kryptón-Security-106630810838763/?ref=bookmarks
+1) Official Facebook page: https://m.facebook.com/Kryptón-Security-106630810838763/?ref=bookmarks
 
-Instagram: https://www.instagram.com/invites/contact/?i=3qfaruc5avqi&utm_content=35khvuq
+2) Instagram: https://www.instagram.com/invites/contact/?i=3qfaruc5avqi&utm_content=35khvuq
 
-Official telegram group: https://t.me/joinchat/LpZHVhYZYe8ujTYDICgekg
+3) Official telegram group: https://t.me/joinchat/LpZHVhYZYe8ujTYDICgekg
 
-Email for questions or clarifications: boeckgarcia@gmail.com
+4) Email for questions or clarifications: boeckgarcia@gmail.com
 
 
 This tool was created for Error404 and Kryptón Security, they disclaim all responsibility for the misuse that the user gives to this tool, it was created with the purpose of checking the security of their zip files, be free to improve the code and use it .
