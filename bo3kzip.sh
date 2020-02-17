@@ -26,7 +26,7 @@ setterm -foreground white
 echo "                  This is a crack for Zip files that works with a dictionary.                   "
 echo "                            Can you put a custom dictionary on it.                              "
 echo "                             In thanks to Error 404 @error404.org                               "
-echo "                         By: BO3K 404 SHL FUNDADOR DE KRYPTÓN SECURITY.                         "
+echo "                         By: BO3K 404 SHL FOUNDER OF KRYPTÓN SECURITY.                          "
 echo "                                      boeckgarcia@gmail.com                                     "
 setterm -foreground white
 sleep 2
