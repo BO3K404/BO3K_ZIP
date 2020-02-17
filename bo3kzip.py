@@ -4,7 +4,7 @@ import zipfile
 import optparse 
 from threading import Thread
 
-print ("Iniciando BO3KZIP") 
+print ("STARTING BO3KZIP") 
 def extractFile(zfile,password):
     try:
        zfile.extractall(pwd=password) 
@@ -13,9 +13,9 @@ def extractFile(zfile,password):
         pass
 
 def main(): 
-    parser=optparse.OptionParser("usage%prog -f <Archivo Zip> -d <Diccionario> ") 
-    parser.add_option("-f",dest="zip_name",type="string",help="Especifique archivo Zip") 
-    parser.add_option("-d",dest="dictionary_name",type="string",help="Especifique diccionario") 
+    parser=optparse.OptionParser("usage%prog -f <Zip File> -d <Dictionary.txt> ") 
+    parser.add_option("-f",dest="zip_name",type="string",help="Specify zip file") 
+    parser.add_option("-d",dest="dictionary_name",type="string",help="Specify dictionary.txt") 
     (options, args)=parser.parse_args()
     if(options.zip_name==None)|(options.dictionary_name==None):  
         print parser.usage
