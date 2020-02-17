@@ -37,4 +37,4 @@ python bo3kzip.py -help
 #But you can modify it with data you have from the author or use another available dictionary.
 # I will be adding several dictionaries.
 #This Tool was created for Error 404.
-#Thanks to Error 404, SEcurity Hack Labs and Kryptón Security for the support they have given me.
+#Thanks to Error 404, Security Hack Labs and Kryptón Security for the support they have given me.
