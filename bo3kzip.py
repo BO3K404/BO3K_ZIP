@@ -13,7 +13,7 @@ def extractFile(zfile,password):
         pass
 
 def main(): 
-    parser=optparse.OptionParser("usage%prog -f <Zip File> -d <Dictionary.txt> ") 
+    parser=optparse.OptionParser("%prog -f <Zip File> -d <Dictionary.txt> ") 
     parser.add_option("-f",dest="zip_name",type="string",help="Specify zip file") 
     parser.add_option("-d",dest="dictionary_name",type="string",help="Specify dictionary.txt") 
     (options, args)=parser.parse_args()
