@@ -25,7 +25,7 @@ Next I will ask you for some data which are:
 
 python bo3kzip.py -f crack.zip -d dictionary.txt
 
-Note: do this before running the bash file
+Note: do this after running the bash file
 
 # SOCIAL NETWORKS:
 
